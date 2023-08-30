@@ -167,7 +167,7 @@ body.dark-theme {
   justify-content: center;
 }
 .profile__perfil img {
-  transform: scale(1.7) translateY(40px) translateX(-6px);
+  transform: scale(1.0) translateY(9px) translateX(-0px);
 }
 .profile__border {
   border: 3.5px solid var(--first-color);
